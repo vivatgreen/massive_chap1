@@ -59,9 +59,11 @@ public class Main {
             System.out.print(arraya[i]);
             if (i != arraya.length - 1)
                 System.out.print(", ");
-
-
         }
+        System.out.println();
+
+
+
     }
 }
 
